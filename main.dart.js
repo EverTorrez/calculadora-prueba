@@ -29919,7 +29919,7 @@ $.kN()
 s=t.FD
 s=new G.o3(R.Pp("10"),R.Pp("20"),R.Pp("30"),R.Pp("+"),H.b([],t.om),P.fD(t.X,t.DW),new M.rX(s),new M.rX(s),!1,!1)
 s.Cj()
-return new S.po(new B.v5(E.a1y().S0(0,s,!1,null,t.hL),null),"Material App",X.a2Y(C.ak).P7(C.k),!1,null)}}
+return new S.po(new B.v5(E.a1y().S0(0,s,!1,null,t.hL),null),"Calculadora",X.a2Y(C.ak).P7(C.k),!1,null)}}
 B.v5.prototype={
 O:function(a,b){var s,r=this,q=null,p=4289045925,o=4293960251,n=M.hM(q,q,q,q,q,q,q,q,q)
 $.kN()
